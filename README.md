@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Badal, a passionate software developer with expertise in Go, Python, and JavaScript/TypeScript. I specialize in frontend development using React Native, Go for backend services and have hands-on experience with various cloud technologies, primarily AWS. As a dedicated Linux user, I love customizing my environment to enhance productivity and efficiency.
+Welcome to my GitHub profile! I'm Badal, a passionate software developer with expertise in Go, Python, and JavaScript/TypeScript. I specialize in frontend development using React Native, Svelte and React, Go for backend services and have hands-on experience with various cloud technologies, primarily AWS. As a dedicated Linux user, I love customizing my environment to enhance productivity and efficiency.
 
 ## Development Stack
 
@@ -11,9 +11,12 @@ Welcome to my GitHub profile! I'm Badal, a passionate software developer with ex
 
 ### Frontend
 - React Native
+- Svelte
+- React
 
 ### Backend
 - Go
+- TypeScript (Node.js/Express.js)
 
 ### Cloud
 - AWS
