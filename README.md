@@ -4,35 +4,35 @@ Welcome to my GitHub profile! I'm Badal, a passionate software developer with ex
 
 ## Development Stack
 
-### Programming Languages
+### 🚀 Programming Languages
 - Go (Main focus)
 - Python
 - JavaScript/TypeScript
 
-### Frontend
+### 🌐 Frontend
 - React Native
 - Svelte
 - React
 
-### Backend
+### ⚙️ Backend
 - Go
 - TypeScript (Node.js/Express.js)
 
-### Cloud
+### ☁️ Cloud
 - AWS
 
-### DevOps & Tools
-- Docker
-- Kubernetes
-- Ansible
-- Terraform
-- GitHub Actions (CI/CD)
+### 🛠 DevOps & Tools
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🤖 Ansible
+- 🌍 Terraform
+- 🛠️ GitHub Actions (CI/CD)
 
-### Editor
-- Neovim
+### ✏️ Editor
+- 💻 Neovim
 
-### Operating System
-- Linux 🐧
+### 🐧 Operating System
+- 🐧 Linux
 
 ## Projects
 
@@ -45,4 +45,3 @@ Feel free to explore my repositories to find projects related to the technologie
 Let's connect and build amazing things together!
 
 Happy coding! 🚀
-
