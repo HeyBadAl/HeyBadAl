@@ -28,6 +28,9 @@ Welcome to my GitHub profile! I'm Badal, a passionate software developer with ex
 - Terraform
 - GitHub Actions (CI/CD)
 
+### Editor
+- Neovim
+
 ### Operating System
 - Linux 🐧
 
